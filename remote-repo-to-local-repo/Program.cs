@@ -7,6 +7,7 @@
             Console.WriteLine("hello palnet, from hatsune miku");
             Console.WriteLine("added line");
             Console.WriteLine("added line again");
+            Console.WriteLine("added line again again");
         }
     }
 }
