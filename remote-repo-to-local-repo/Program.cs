@@ -4,7 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("hello palnet, from hatsune miku");
+            Console.WriteLine("added line");
+            Console.WriteLine("added line again");
         }
     }
 }
